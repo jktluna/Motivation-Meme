@@ -1,0 +1,19 @@
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+#hehe {
+    justify-content: center;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-style: normal;
+    text-align: center;
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+}
+
+body {
+    background-color: black;
+}
